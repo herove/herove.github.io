@@ -1,15 +1,15 @@
 # Site settings
-title: Leihao Blog
+title: herove Blog
 header-img: img/home-bg.jpg
 email: herove@yourdomain.com
-copyright_name: Your/Project/Corporate Name
+copyright_name: herove blog
 description: "Write your site description here. It will be used as your sites meta description as well!"
 baseurl: "/herove.github.io"
-url: "http://yourdomain.com"
-twitter_username: SBootstrap
-github_username:  davidtmiller
-facebook_username:  StartBootstrap
-email_username:  your-email@yourdomain.com
+url: "http://zhouleihao.com"
+twitter_username: leihao
+github_username:  heroves
+facebook_username:  zhouleihao
+email_username:  herove@gmail.com
 
 # Google Analytics
 # To enable google analytics, uncomment below line with a valid Google Tracking ID
