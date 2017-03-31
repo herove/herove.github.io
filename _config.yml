@@ -4,7 +4,7 @@ header-img: img/home-bg.jpg
 email: herove@yourdomain.com
 copyright_name: herove blog
 description: "Write your site description here. It will be used as your sites meta description as well!"
-baseurl: "/"
+baseurl: "/herove.github.io"
 url: "http://zhouleihao.com"
 twitter_username: leihao
 github_username:  heroves
