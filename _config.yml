@@ -1,10 +1,10 @@
 # Site settings
 title: herove Blog
 header-img: img/home-bg.jpg
-email: herove@yourdomain.com
+email: herove@gmail.com
 copyright_name: herove blog
 description: "Write your site description here. It will be used as your sites meta description as well!"
-baseurl: "/herove.github.io"
+baseurl: ""
 url: "http://zhouleihao.com"
 twitter_username: leihao
 github_username:  heroves
