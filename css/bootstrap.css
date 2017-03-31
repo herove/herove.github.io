@@ -1201,7 +1201,9 @@ h6 small,
 .h4 small,
 .h5 small,
 .h6 small,
-h1 .small,
+h1 .small {
+	text-decoration: none
+}
 h2 .small,
 h3 .small,
 h4 .small,
@@ -4280,7 +4282,6 @@ select[multiple].input-group-sm > .input-group-btn > .btn {
   padding: 15px 15px;
   font-size: 18px;
   line-height: 20px;
-  text-decoration: none;
 }
 .navbar-brand:hover,
 .navbar-brand:focus {
