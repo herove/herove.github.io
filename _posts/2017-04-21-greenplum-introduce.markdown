@@ -1,6 +1,6 @@
 ---
 layout:     post
-title:      "大数据引擎Greenplum那些事"
+title:      "详解开源大数据引擎Greenplum的架构和技术特点"
 date:       2017-04-21 13:42:00
 author:     "zhouleihao"
 header-img: "http://gpdb.docs.pivotal.io/4390/graphics/highlevel_arch.jpg"
