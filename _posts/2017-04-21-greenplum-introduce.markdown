@@ -4,8 +4,10 @@ title:      "详解开源大数据引擎Greenplum的架构和技术特点"
 date:       2017-04-21 13:42:00
 author:     "zhouleihao"
 header-img: "img/post-greenplum-introduce.jpg"
+tags:
+    - Greenplum
 ---
->《程序员》3月技术板投稿。
+> 首发于《程序员》3月技术月刊。
 
 ### 什么是Greenplum
 大数据引擎Greenplum（以下简称GPDB）是一款开源的数据仓库。基于开源的PostgreSQL改造，主要用来处理大规模的数据分析任务，相比现在的Hadoop，Greenplum更适合做大数据的存储、计算和分析引擎。Greenplum项目基于Apache 2许可发布。
