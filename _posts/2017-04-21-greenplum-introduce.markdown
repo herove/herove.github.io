@@ -3,7 +3,7 @@ layout:     post
 title:      "详解开源大数据引擎Greenplum的架构和技术特点"
 date:       2017-04-21 13:42:00
 author:     "zhouleihao"
-header-img: "http://gpdb.docs.pivotal.io/4390/graphics/highlevel_arch.jpg"
+header-img: "img/post-greenplum-introduce.jpg"
 ---
 >《程序员》3月技术板投稿。
 
@@ -140,8 +140,6 @@ Interconnect是Greenplum架构中的网络层，是GPDB系统的总要组件，�
 
 
 最近在对GPDB做调研和测试，过程中用TPCH做性能的测试，通过和网络上其他服务的对比发现在5个节点的情况下已经有了很高的查询速度，但是由于测试环境服务器问题，具体的性能数据还要在接下来的新环境中得出，不过GPDB基于postgresql开发，天生支持丰富的统计函数，支持横向的线性扩展，内部容错机制，有很多功能强大的运维管理命令和代码，相比impala而言，显然在SQL的支持，实时性和稳定性上更胜一筹。
-
-本文只是对Greenplum的初窥，接下来更深入的剖析以及在工作中的实践经验分享也请关注DA的wiki。更多的关于Greenplum基本的语法和特性，也可以参考PostgreSQL的官方文档。
 
 ### 参考
 [Pivotal Greenplum® Database 4.3.9.1 Documentation](http://gpdb.docs.pivotal.io/4390/common/welcome.html)
