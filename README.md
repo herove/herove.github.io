@@ -1,10 +1,7 @@
 - 感谢模板作者 kejinlu.github.com 
 
-- 感谢[luoluoyou](http://www.douban.com/people/luoluoyou/)君的指导
 
-- 详情可以参看上述两位朋友的博客
-
-- Updated #08/15/2014 @San Jose, CA
+- Updated #15/07/2017 @Beijing, China
 
 
 
