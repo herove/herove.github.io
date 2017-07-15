@@ -1,12 +1,17 @@
 ---
 layout:     post
 title:      "详解开源大数据引擎Greenplum的架构和技术特点"
+subtitle:	""
 date:       2017-04-21 13:42:00
 author:     "zhouleihao"
 header-img: "img/post-greenplum-introduce.jpg"
+header-mask: 0.3
+catalog:    true
 tags:
     - Greenplum
 ---
+
+
 > 首发于《程序员》3月技术月刊。
 
 ### 什么是Greenplum
