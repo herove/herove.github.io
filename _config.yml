@@ -1,9 +1,9 @@
 markdown: kramdown
 permalink: /:year/:month/:title/
-author: Kaka Chen	
+author: Zhou Leihao	
 pygments: true
 paginate: 16
-url: http://kakack.github.io
+url: "http://zhouleihao.com"
 baseurl: /
 encoding: utf-8
 highlighter: rouge
