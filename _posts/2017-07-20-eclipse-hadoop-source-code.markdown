@@ -1,7 +1,7 @@
 ---
 layout:     post
-title:      "搭建Hadoop源码阅读环境"
-subtitle:	"安装以及解决问题的方法"
+title:      搭建Hadoop源码阅读环境
+subtitle:	安装以及解决问题的方法
 date:       2017-07-20 23:40:00
 author:     "zhouleihao"
 header-img: "img/post-eclipse-hadoop-source-code.png"
